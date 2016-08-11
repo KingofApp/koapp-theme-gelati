@@ -12,7 +12,7 @@ gelati-card + gelati-card {
 }
 
 gelati-card {
-  max-width: 100%;
+  width: 100%;
 }
 
 form {
